@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/MovieFlix/static/css/main.7200fb32.chunk.css",
+    "main.js": "/MovieFlix/static/js/main.e17ca4ca.chunk.js",
+    "main.js.map": "/MovieFlix/static/js/main.e17ca4ca.chunk.js.map",
+    "runtime-main.js": "/MovieFlix/static/js/runtime-main.6fd2b97a.js",
+    "runtime-main.js.map": "/MovieFlix/static/js/runtime-main.6fd2b97a.js.map",
+    "static/js/2.13004315.chunk.js": "/MovieFlix/static/js/2.13004315.chunk.js",
+    "static/js/2.13004315.chunk.js.map": "/MovieFlix/static/js/2.13004315.chunk.js.map",
+    "static/js/3.3061dba4.chunk.js": "/MovieFlix/static/js/3.3061dba4.chunk.js",
+    "static/js/3.3061dba4.chunk.js.map": "/MovieFlix/static/js/3.3061dba4.chunk.js.map",
+    "index.html": "/MovieFlix/index.html",
+    "static/css/main.7200fb32.chunk.css.map": "/MovieFlix/static/css/main.7200fb32.chunk.css.map",
+    "static/js/2.13004315.chunk.js.LICENSE.txt": "/MovieFlix/static/js/2.13004315.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6fd2b97a.js",
+    "static/js/2.13004315.chunk.js",
+    "static/css/main.7200fb32.chunk.css",
+    "static/js/main.e17ca4ca.chunk.js"
+  ]
+}
